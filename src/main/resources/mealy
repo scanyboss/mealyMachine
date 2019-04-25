@@ -1,0 +1,25 @@
+begin automaton
+
+define input set:
+	X0, X1;
+
+define output set:
+	Y0, Y1, Y2;
+
+define state set:
+    S0, S1, S2, S3, S4;
+
+trans S0 to S1 when X0 produces Y2;
+trans S0 to S2 when X1 produces Y0;
+
+trans S1 to S1 when X0, X1 produces Y2;
+
+trans S2 to S3 when X0 produces Y0;
+trans S2 to S4 when X1 produces Y1;
+
+trans S3 to S1 when X0 produces Y2;
+trans S3 to S4 when X1 produces Y1;
+
+trans S4 to S4 when X0,X1 produces Y2;
+
+end automaton;

@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f0c98ce-881f-4a37-9b11-56049def907e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-306255414">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="3" />
+          <entry key="dummy" value="31" />
+          <entry key="gitignore" value="19" />
+          <entry key="java" value="3467" />
+          <entry key="lang" value="2" />
+          <entry key="mealy" value="146" />
+          <entry key="mwe2" value="14" />
+          <entry key="txt" value="202" />
+          <entry key="xml" value="141" />
+          <entry key="xtext" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="3467" />
+          <entry key="Manifest" value="2" />
+          <entry key="PLAIN_TEXT" value="422" />
+          <entry key="XML" value="141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram//home/jan/Documents/School/diplomka/kod/YAJCo/mealy-automat/src/main/java/yajco/example/mealy/model" value="1" />
+          <entry key="MF" value="10" />
+          <entry key="MF_gen" value="1" />
+          <entry key="MODULES/mdl-mealyMachine" value="1" />
+          <entry key="State" value="1" />
+          <entry key="class" value="13" />
+          <entry key="dot" value="11" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="199" />
+          <entry key="lang" value="11" />
+          <entry key="log" value="1" />
+          <entry key="mealy" value="15" />
+          <entry key="model" value="7" />
+          <entry key="mwe2" value="3" />
+          <entry key="mydsl-ls" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="uml" value="2" />
+          <entry key="xml" value="23" />
+          <entry key="xtend" value="3" />
+          <entry key="xtext" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="199" />
+          <entry key="Manifest" value="10" />
+          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="Properties" value="2" />
+          <entry key="UML" value="11" />
+          <entry key="XML" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Mealy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/StateSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/OutputSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Output.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/InputUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/CodeRunnerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CURRENT</find>
+      <find>refe</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/openSource/deltachat-android-ii" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Main.java" />
+        <option value="$PROJECT_DIR$/target/generated-sources/annotations/yajco.example.mealy.model.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Inputs.java" />
+        <option value="$PROJECT_DIR$/target/mealy.dot" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/StateSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/OutputSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Input.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Output.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Diagram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/InputSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/InputUsage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Mealy.java" />
+        <option value="$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ide/pom.xml" />
+        <option value="$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/Mealy.xtext" />
+        <option value="$PROJECT_DIR$/src/main/resources/mealy" />
+        <option value="$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/GenerateMealyMachine.mwe2" />
+        <option value="$PROJECT_DIR$/target/xtext/org.mealy.parent/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Transition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/CodeRunnerImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Automaton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/package-info.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mealy Machine language - YAJCo example" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mealy Machine language - YAJCo example" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Mealy Machine language - YAJCo example" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="725" />
+    <option name="width" value="1270" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mealyMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mealy-automat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556200148334" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pictures" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37816092" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="yajco.example.mealy.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.package xtext">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yajco.example.mealy.Main" />
+      <module name="mealyMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yajco.example.mealy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+                <option value="-Dexec.mainClass=yajco.example.mealy.Main" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="package xtext" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="target/xtext/org.mealy.parent/pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.package" />
+      <item itemvalue="Maven.package xtext" />
+      <item itemvalue="Maven.Unnamed (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f0c98ce-881f-4a37-9b11-56049def907e" name="Default Changelist" comment="" />
+      <created>1554243785913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554243785913</updated>
+      <workItem from="1554243790537" duration="4455000" />
+      <workItem from="1554311203054" duration="12670000" />
+      <workItem from="1554357668134" duration="3383000" />
+      <workItem from="1554369933985" duration="1892000" />
+      <workItem from="1554390978274" duration="9874000" />
+      <workItem from="1554451845078" duration="9837000" />
+      <workItem from="1554533094351" duration="600000" />
+      <workItem from="1554540754019" duration="6992000" />
+      <workItem from="1554653101729" duration="8064000" />
+      <workItem from="1554675664559" duration="4011000" />
+      <workItem from="1554747236251" duration="696000" />
+      <workItem from="1554749432932" duration="14609000" />
+      <workItem from="1554822972145" duration="12716000" />
+      <workItem from="1554873756961" duration="286000" />
+      <workItem from="1555006525179" duration="2843000" />
+      <workItem from="1555447958469" duration="572000" />
+      <workItem from="1555523265029" duration="40000" />
+      <workItem from="1555659082650" duration="78000" />
+      <workItem from="1555881679735" duration="971000" />
+      <workItem from="1555918767013" duration="676000" />
+      <workItem from="1555934328980" duration="10000" />
+      <workItem from="1556044679925" duration="5452000" />
+      <workItem from="1556104675408" duration="63000" />
+      <workItem from="1556114353061" duration="3592000" />
+      <workItem from="1556199396190" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105133000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16292734" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4877765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33144796" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32945284" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="CDI" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.25405845" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/OutputSet.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-xtext/0.5.10-SNAPSHOT/yajco-xtext-0.5.10-SNAPSHOT.jar!/yajco/xtext/grammar/XtextGrammarPrinter.class</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-xtext/0.5.10-SNAPSHOT/yajco-xtext-0.5.10-SNAPSHOT.jar!/yajco/xtext/grammar/XtextGrammarPrinter.class</url>
+          <line>347</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-xtext/0.5.10-SNAPSHOT/yajco-xtext-0.5.10-SNAPSHOT.jar!/yajco/xtext/grammar/XtextGrammarPrinter.class</url>
+          <line>344</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>transitions</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>transition</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/build.properties" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/MealyRuntimeModule.xtend" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ide/target/languageserver/bin/mydsl-ls" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/GenerateMealy.mwe2" />
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-annotations/0.5.10-SNAPSHOT/yajco-annotations-0.5.10-SNAPSHOT.jar!/yajco/annotation/Range.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/src/org/mealy/ui/handler/InterpretCodeHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-core/3.2.5/maven-core-3.2.5.jar!/org/apache/maven/plugin/DefaultBuildPluginManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/plugin.xml" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-resources-plugin/3.1.0/maven-resources-plugin-3.1.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-annotation-processor/0.5.10-SNAPSHOT/yajco-annotation-processor-0.5.10-SNAPSHOT.jar!/yajco/annotation/processor/AnnotationProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-annotation-processor/0.5.10-SNAPSHOT/yajco-annotation-processor-0.5.10-SNAPSHOT.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-annotation-processor/0.5.10-SNAPSHOT/yajco-annotation-processor-0.5.10-SNAPSHOT.jar!/META-INF/maven/sk.tuke.yajco/yajco-annotation-processor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1661" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-xtext/0.5.10-SNAPSHOT/yajco-xtext-0.5.10-SNAPSHOT.jar!/yajco/xtext/grammar/XtextGrammarPrinter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="396" selection-start-line="396" selection-end-line="396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-xtext/0.5.10-SNAPSHOT/yajco-xtext-0.5.10-SNAPSHOT.jar!/yajco/xtext/grammar/XtextGrammarGenerator.class" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/Mealy.xtext" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/MealyQNP.java" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/build.properties" />
+    <entry file="file://$PROJECT_DIR$/mealy-automat.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/META-INF/MANIFEST.MF_gen" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ide/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/annotations/yajco/example/mealy/parser/beaver/MealyParserScanner.java" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/GenerateMealyMachine.mwe2" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/src/org/mealy/MealyMachine.xtext" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy.ui/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/annotations/yajco.example.mealy.model.lang" />
+    <entry file="file://$PROJECT_DIR$/target/xtext/org.mealy.parent/org.mealy/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/InputSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/mealyMachine.dot" />
+    <entry file="uml://JAVA/yajco.example.mealy.model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>yajco.example.mealy.model</OriginalElement>
+          <nodes>
+            <node x="147.25000000000003" y="83.0">yajco.example.mealy.model.InputUsage</node>
+            <node x="288.25" y="83.0">yajco.example.mealy.model.State</node>
+            <node x="235.25000000000003" y="332.0">yajco.example.mealy.model.Mealy</node>
+            <node x="297.75" y="166.0">yajco.example.mealy.model.StateSet</node>
+            <node x="151.75000000000003" y="166.0">yajco.example.mealy.model.Transition</node>
+            <node x="34.25000000000003" y="83.0">yajco.example.mealy.model.Output</node>
+            <node x="218.75000000000003" y="249.0">yajco.example.mealy.model.Automaton</node>
+            <node x="390.25" y="83.0">yajco.example.mealy.model.InputSet</node>
+            <node x="289.54545454545456" y="0.0">yajco.example.mealy.model.Input</node>
+            <node x="0.0" y="166.0">yajco.example.mealy.model.OutputSet</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="yajco.example.mealy.model.Automaton" target="yajco.example.mealy.model.InputSet">
+              <point x="45.0" y="-16.5" />
+              <point x="323.75" y="229.0" />
+              <point x="441.75" y="229.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Transition" target="yajco.example.mealy.model.State">
+              <point x="37.33333333333334" y="-16.5" />
+              <point x="245.08333333333337" y="141.0" />
+              <point x="308.75" y="141.0" />
+              <point x="-20.5" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Mealy" target="yajco.example.mealy.model.Automaton">
+              <point x="0.0" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Automaton" target="yajco.example.mealy.model.Transition">
+              <point x="-15.0" y="-16.5" />
+              <point x="263.75" y="219.0" />
+              <point x="207.75000000000003" y="219.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Automaton" target="yajco.example.mealy.model.OutputSet">
+              <point x="-45.0" y="-16.5" />
+              <point x="233.75000000000003" y="229.0" />
+              <point x="57.5" y="229.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Transition" target="yajco.example.mealy.model.Output">
+              <point x="-37.33333333333334" y="-16.5" />
+              <point x="170.41666666666669" y="141.0" />
+              <point x="104.00000000000003" y="141.0" />
+              <point x="23.25" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.InputSet" target="yajco.example.mealy.model.Input">
+              <point x="0.0" y="-16.5" />
+              <point x="441.75" y="58.0" />
+              <point x="350.29545454545456" y="58.0" />
+              <point x="20.25" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Automaton" target="yajco.example.mealy.model.StateSet">
+              <point x="15.0" y="-16.5" />
+              <point x="293.75" y="219.0" />
+              <point x="349.75" y="219.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.StateSet" target="yajco.example.mealy.model.State">
+              <point x="0.0" y="-16.5" />
+              <point x="20.5" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.OutputSet" target="yajco.example.mealy.model.Output">
+              <point x="0.0" y="-16.5" />
+              <point x="-23.25" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.InputUsage" target="yajco.example.mealy.model.Input">
+              <point x="-2.8421709430404007E-14" y="-16.5" />
+              <point x="207.75" y="58.0" />
+              <point x="309.79545454545456" y="58.0" />
+              <point x="-20.25" y="16.5" />
+            </edge>
+            <edge source="yajco.example.mealy.model.Transition" target="yajco.example.mealy.model.InputUsage">
+              <point x="0.0" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="499.0" y="191.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/annotations/yajco/example/mealy/parser/MealyParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/sf/beaver/beaver-cc/0.9.10/beaver-cc-0.9.10.jar!/beaver/Parser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/sk/tuke/yajco/yajco-annotations/0.5.10-SNAPSHOT/yajco-annotations-0.5.10-SNAPSHOT.jar!/yajco/ReferenceResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Automaton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>yajco.example.mealy.model</OriginalElement>
+          <nodes>
+            <node x="" y="">yajco.example.mealy.model.InputUsage</node>
+            <node x="" y="">yajco.example.mealy.model.State</node>
+            <node x="" y="">yajco.example.mealy.model.StateSet</node>
+            <node x="" y="">yajco.example.mealy.model.Output</node>
+            <node x="" y="">yajco.example.mealy.model.Transition</node>
+            <node x="" y="">yajco.example.mealy.model.Automaton</node>
+            <node x="" y="">yajco.example.mealy.model.InputSet</node>
+            <node x="" y="">yajco.example.mealy.model.Input</node>
+            <node x="" y="">yajco.example.mealy.model.OutputSet</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="260.5" y="161.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocity.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Transition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mealy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/CodeRunnerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/StateSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/OutputSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/InputUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yajco/example/mealy/model/Mealy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mealy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37816092" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="exec:java -Dexec.mainClass=&quot;yajco.example.mealy.Main&quot;" />
+    <option value="clean package -X" />
+    <option value="clean package -e" />
+    <option value="exec:java -Dexec.mainClass=&quot;yajco.example.mealy.Main&quot; -e" />
+    <option value="compile -e" />
+  </component>
+</project>
